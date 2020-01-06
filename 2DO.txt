@@ -1,0 +1,33 @@
+
+Squares score points
+
+A multiplier is filled up with each square -> chains are worthy :)
+
+Analytics
+
+Scoring: More points the higher the level
+
+Additional time for cleared level
+
+Random subtractive pattern: Defined shape vs bomb
+
+Visual: Size boxes according to level
+
+Background Music
+
+Action sounds
+
+
+
+Alternate game principles:
+ Score completed lines + completed planes
+ Create SQUARES: The larger the square, the higher the score
+ Remove completed lines
+ Only has to fill a specific shape
+
+
+DONE:
+* remove inside faces of move boxes
+* Two chains: Select your next pattern
+* BLITZ game: timer, auto stop
+* Vibrate when stone set / level complete

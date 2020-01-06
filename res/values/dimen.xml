@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <dimen name="game_center_x_offset">-50dp</dimen> -->
+    <dimen name="game_center_x_offset">0dp</dimen>
+    <dimen name="game_center_y_offset">-30dp</dimen>
+    
+    <dimen name="finished_row_margin">50dp</dimen>
+    
+    <item type="integer" name="background_tile_size_factor">88</item>
+    
+</resources>

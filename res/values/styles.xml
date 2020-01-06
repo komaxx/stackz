@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="android:Theme" android:background="@null">
+    </style>
+
+</resources>

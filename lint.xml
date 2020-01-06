@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="RtlHardcoded">
+        <ignore path="src/com/suchgame/stackz/game/TiledBackgroundNode.java" />
+    </issue>
+    <issue id="UseSparseArrays">
+        <ignore path="src/com/suchgame/stackz/menu/MenuNode.java" />
+    </issue>
+</lint>

@@ -1,0 +1,15 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="background">#FFFF</color>
+	<color name="cage_tiles_floor">#FFD5D5D5</color>
+	
+	<color name="depth_color_base_active">#FFFF0000</color>
+	<color name="depth_color_top1_active">#FF00FF33</color>
+	<color name="depth_color_top2_active">#FF0066FF</color>
+	<color name="depth_color_top3_active">#FF37db76</color>
+	<color name="depth_color_top4_active">#FF3bed7f</color>
+	<color name="depth_color_top5_active">#FF40ff89</color>
+	<color name="depth_color_top6_active">#FF40ffcb</color>
+	<color name="depth_color_top7_active">#FF66ffcb</color>
+			
+</resources>
