@@ -3,7 +3,7 @@ An attempt of a 3D Tetris-like thing, built on top of komaxx-gl.
 
 ## Screenshots
 
-<a href="/scrsh1.png"><img src="/stackz.png" alt="Screenshot 1" width="25%" /></a>
+<a href="/scrsh1.jpg"><img src="/stackz.jpg" alt="Screenshot 1" width="25%" /></a>
 <a href="/scrsh2.png"><img src="/scrsh2.png" alt="Screenshot 2" width="25%" /></a>
 
 ## State
