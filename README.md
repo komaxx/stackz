@@ -8,7 +8,7 @@ An attempt of a 3D Tetris-like thing, built on top of komaxx-gl.
 
 ## State
 
-Abandoned. Had quite some fun building it, and maybe someone will attempt something similar. Could not get it to be really that fun.
+Abandoned. Had quite some fun building it, and maybe someone will attempt something similar. Could not get it to be really that much fun to play.
 
 Maybe a good starting point to learn about how to use komaxx-gl (or other SceneGraph render engines).
 
